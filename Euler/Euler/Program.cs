@@ -10,9 +10,9 @@ namespace Euler
     {
         static void Main(string[] args)
         {
-            //Created by ShadowScreamz
-            //solution to Prac 1 Task 3 instruction 4
-            //Project Euler: Problem 3
+            //created by ShadowScreamz
+            //Prac 1 Task 3 Euler
+            //solution to Euler Problem 3: Largest Prime Factor
             
             long number = 600851475143; 
             long largestprimefactor= 0;
